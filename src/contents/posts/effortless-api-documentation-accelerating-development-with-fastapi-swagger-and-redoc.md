@@ -195,7 +195,7 @@ With the server running, open your browser:
 ### Swagger UI (`/docs`)
 
 Navigate to `http://127.0.0.1:8000/docs`.
-![Screenshot of Swagger UI showing the example app with grouped Items endpoints and metadata](https://i.ibb.co.com/ccr9Td19/screenshot-2023-12-28-104454.webp)
+<img src="https://i.ibb.co.com/ccr9Td19/screenshot-2023-12-28-104454.webp" alt="Screenshot of Swagger UI showing the example app with grouped Items endpoints and metadata" width="100%"/>
 
 You'll see the Swagger UI interface:
 
@@ -213,7 +213,7 @@ You'll see the Swagger UI interface:
 
 Navigate to `http://127.0.0.1:8000/redoc`.
 
-![Screenshot of ReDoc UI showing the example app](https://i.ibb.co.com/WN7bW4B9/Screenshot-2023-12-28-104801-1.webp)
+<img src="https://i.ibb.co.com/WN7bW4B9/Screenshot-2023-12-28-104801-1.webp" alt="Screenshot of ReDoc UI showing the example app" width="100%"/>
 
 ReDoc offers an alternative view:
 

@@ -27,8 +27,7 @@ JavaScript, the backbone of modern web development, empowers developers to creat
 
 ## What are Promises?
 
-![JavaScript Promise Actions](https://i.ibb.co.com/qFXGy0rj/java-Script-Promise-Actions.webp)
-
+<img src="https://i.ibb.co.com/qFXGy0rj/java-Script-Promise-Actions.webp" alt="JavaScript Promise Actions" width="100%"/>
 Before diving into Promise methods, let’s grasp the basic concept of Promises. A **Promise** is an object representing the eventual completion (or failure) of an asynchronous operation and its resulting value. It provides a cleaner way to handle asynchronous code compared to traditional callback functions, helping to avoid "callback hell".
 
 ## How Promises Work

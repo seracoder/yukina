@@ -2,7 +2,7 @@
 title: Building Fast APIs with FastAPI
 published: 2023-12-24
 description: A comprehensive guide to building fast APIs using FastAPI, covering installation, features, and best practices.
-tags: [Fastapi]
+tags: [fastapi]
 category: Python
 author: Md hamim
 draft: false

@@ -2,7 +2,7 @@
 title: Demystifying Regular Expressions (Regex)
 published: 2023-12-27
 description:  A comprehensive guide to understanding and using Regular Expressions (Regex) with practical examples and a handy cheat sheet.
-tags: [Regex, Cheatsheet]
+tags: [regex, cheatsheet]
 category: JavaScript
 author: Md hamim
 draft: false

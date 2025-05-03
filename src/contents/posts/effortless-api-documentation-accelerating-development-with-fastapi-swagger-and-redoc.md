@@ -2,7 +2,7 @@
 title: Accelerating Development with FastAPI, Swagger, and ReDoc
 published: 2024-01-02
 description: Mastering API Documentation with FastAPI
-tags: [Fastapi, Restful API]
+tags: [fastapi, restful API]
 category: Python
 author: Md hamim
 draft: false

@@ -2,7 +2,7 @@
 title: Python String Formatting
 published: 2024-01-12
 description: A comprehensive guide to Python F-strings, covering syntax, variable insertion, expressions, formatting options, and best practices.
-tags: [Formatting, Python, F-strings]
+tags: [formatting, python, f-strings]
 category: Python
 author: Md hamim
 draft: false

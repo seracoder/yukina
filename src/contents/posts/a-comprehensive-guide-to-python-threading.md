@@ -2,7 +2,7 @@
 title: A Comprehensive Guide to Python Threading
 published: 2023-12-28
 description: A comprehensive guide to Python threading, covering the basics, synchronization, communication, thread safety, advanced concepts, and real-world examples.
-tags: [Threading, Concurrency]
+tags: [threading, concurrency]
 category: Python
 author: Md hamim
 draft: false

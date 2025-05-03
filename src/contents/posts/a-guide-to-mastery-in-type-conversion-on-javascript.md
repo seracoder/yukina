@@ -2,7 +2,7 @@
 title: A Guide to Mastery in Type Conversion on JavaScript
 published: 2023-12-26
 description: A comprehensive guide to understanding and mastering type conversion in JavaScript, covering implicit and explicit conversions, common techniques, pitfalls, and best practices.
-tags: [Type Conversion]
+tags: [type conversion]
 category: JavaScript
 author: Md hamim
 draft: false

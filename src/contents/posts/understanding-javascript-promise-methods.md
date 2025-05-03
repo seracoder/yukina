@@ -2,7 +2,7 @@
 title: Understanding JavaScript Promise Methods
 published: 2024-01-04
 description: A straightforward guide to understanding JavaScript Promise methods.
-tags: [Concurrency, Asynchronous]
+tags: [concurrency, asynchronous]
 category: JavaScript
 author: Md hamim
 draft: false

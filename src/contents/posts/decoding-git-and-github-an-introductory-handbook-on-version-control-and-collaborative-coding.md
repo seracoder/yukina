@@ -2,7 +2,7 @@
 title: Git and GitHub Made Easy for Beginners in Version Control and Collaboration
 published: 2024-01-05
 description: A beginner's guide to understanding Git and GitHub, focusing on version control and collaborative coding.
-tags: [Version Control, Git, GitHub, Cheatsheet]
+tags: [version control, git, gitHub, cheatsheet]
 category: Git and GitHub
 author: Md hamim
 draft: false

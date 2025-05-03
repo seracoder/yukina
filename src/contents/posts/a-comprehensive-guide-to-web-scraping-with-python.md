@@ -2,7 +2,7 @@
 title: A Comprehensive Guide to Web Scraping with Python and Selenium
 published: 2023-12-23
 description: A beginner's guide to web scraping using Python and Selenium, covering setup, basic scraping techniques, handling dynamic content, and best practices.
-tags: [Selenium, Web Scrapping]
+tags: [selenium, web scrapping]
 category: Python
 author: Md hamim
 draft: false

@@ -6,6 +6,7 @@ tags: [argparse, click, cli tools]
 category: Python
 author: Md hamim
 draft: false
+cover: /covers/python-click-argparse.webp
 ---
 
 We've all been there: you write a handy Python script to automate a task, maybe process some files or fetch some data. Initially, you might just change variables directly in the code or use basic input() prompts. But as the script grows or you want others (or your future self!) to use it easily, hardcoding parameters becomes messy and inefficient. This is where Command Line Interface (CLI) tools shine.

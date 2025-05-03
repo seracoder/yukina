@@ -2,15 +2,15 @@ import I18nKeys from "./src/locales/keys";
 import type { Configuration } from "./src/types/config";
 
 const YukinaConfig: Configuration = {
-  title: "Yukina",
-  subTitle: "Yukina Template Demo Site",
-  brandTitle: "Yukina",
+  title: "Hamim's Blog",
+  subTitle: "Thoughts, Code & Creativity",
+  brandTitle: "Home",
 
-  description: "Demo Site",
+  description: "Personal blog by Hamim – covering code, backend architecture, frontend ideas, and tech insights.",
 
-  site: "https://yukina-blog.vercel.app",
+  site: "https://seracoder.com",
 
-  locale: "en", // set for website language and date format
+  locale: "en",
 
   navigators: [
     {
@@ -27,28 +27,30 @@ const YukinaConfig: Configuration = {
     },
     {
       nameKey: I18nKeys.nav_bar_github,
-      href: "https://github.com/WhitePaper233/yukina",
+      href: "https://github.com/seracoder",
     },
   ],
 
-  username: "WhitePaper 白芷",
-  sign: "Ad Astra Per Aspera.",
-  avatarUrl: "https://s2.loli.net/2025/01/25/FPpTrQSezM8ivbl.webp",
+  username: "Hamim",
+  sign: "Solo Developer | Python & JS | FastAPI, Django, Next.js, Svelte",
+  avatarUrl: "/avater-2.png", // You can replace this with your own avatar
+
   socialLinks: [
     {
       icon: "line-md:github-loop",
-      link: "https://github.com/WhitePaper233",
+      link: "https://github.com/seracoder",
     },
     {
-      icon: "mingcute:bilibili-line",
-      link: "https://space.bilibili.com/22433608",
+      icon: "mingcute:linkedin-line",
+      link: "https://www.linkedin.com/in/md-hamim/",
     },
     {
-      icon: "mingcute:netease-music-line",
-      link: "https://music.163.com/#/user/home?id=125291648",
+      icon: "mingcute:world-2-line",
+      link: "https://mdhamim.com",
     },
   ],
-  maxSidebarCategoryChip: 6, // It is recommended to set it to a common multiple of 2 and 3
+
+  maxSidebarCategoryChip: 6,
   maxSidebarTagChip: 12,
   maxFooterCategoryChip: 6,
   maxFooterTagChip: 24,
@@ -64,15 +66,14 @@ const YukinaConfig: Configuration = {
     "https://s2.loli.net/2025/01/25/JjpLOW8VSmufzlA.webp",
   ],
 
-  slugMode: "HASH", // 'RAW' | 'HASH'
+  slugMode: "RAW",   // 'RAW' | 'HASH'
 
   license: {
     name: "CC BY-NC-SA 4.0",
     url: "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   },
 
-  // WIP functions
-  bannerStyle: "LOOP", // 'loop' | 'static' | 'hidden'
+  bannerStyle: "LOOP",   // 'loop' | 'static' | 'hidden'
 };
 
 export default YukinaConfig;
